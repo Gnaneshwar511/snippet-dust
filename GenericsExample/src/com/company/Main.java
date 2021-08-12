@@ -11,6 +11,7 @@ public class Main {
     //N: Number
     //T: Type
     //V: Value
+    
     public static void main(String[] args) {
         NumericFns<Integer, Integer> fnsOne = new NumericFns<>();
         fnsOne.printVariable(2);
